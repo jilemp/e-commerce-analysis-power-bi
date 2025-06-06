@@ -69,7 +69,6 @@ Profit Percentage Treemap
 Developed a final cohesive story with actionable insights.
 
 ## 📸 Report Screenshots
-Add screenshots to the Images/ folder and embed them below:
 
 
 ## 📌 Tools & Technologies
