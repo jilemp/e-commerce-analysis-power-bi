@@ -71,7 +71,8 @@ Profit Percentage Treemap
 Developed a final cohesive story with actionable insights.
 
 ## 📸 Report Screenshots
-
+Executive Summary
+Shipping Metrics
 
 ## 📌 Tools & Technologies
 Power BI Desktop
