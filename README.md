@@ -28,7 +28,9 @@ Through data modeling, transformation, analytics, and visualization, this dashbo
 │   └── dim_products.csv
 │   └── fact_sales.csv
 │   └── state_region_mapping.csv
-├── 📁 Images/
+├── 📁 images/
+│   └── ecom-db1.jpg
+│   └── ecom-db2.jpg
 │   └── dashboard_preview.png
 ├── 📁 DAX/
 │   └── key_measures.md
