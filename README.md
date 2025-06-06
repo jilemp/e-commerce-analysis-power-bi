@@ -81,26 +81,6 @@ DAX (Data Analysis Expressions)
 
 Sample datasets from DataCamp Sandbox
 
-## 🧮 Sample DAX Measures
-DAX
-Copy
-Edit
-Total Sales = SUM(Sales[SalesAmount])
-
-Profit Margin % = 
-DIVIDE(
-    [Total Profit],
-    [Total Sales],
-    0
-)
-
-Sales by State = 
-CALCULATE(
-    [Total Sales],
-    ALLEXCEPT(Customer, Customer[State])
-)
-Full DAX measures available in /DAX/key_measures.md
-
 ## ✅ Project Status
 
 ✅ Completed  
