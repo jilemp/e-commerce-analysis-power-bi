@@ -32,8 +32,10 @@ Through data modeling, transformation, analytics, and visualization, this dashbo
 │   └── dashboard_preview.png
 ├── 📁 DAX/
 │   └── key_measures.md
-🧾 Key Features
-🔍 1. Data Exploration
+```
+
+## 🧾 Key Features
+### 🔍 1. Data Exploration
 Combined multiple datasets to create a clean model.
 
 Applied Power Query for filtering, cleaning, and transformation.
@@ -42,7 +44,7 @@ Built metrics for orders, customers, and purchases.
 
 Identified commonly purchased product pairs.
 
-📈 2. Ecommerce Analytics
+### 📈 2. Ecommerce Analytics
 Created DAX measures for:
 
 Profitability by product and customer
@@ -53,7 +55,7 @@ Shipping cost metrics
 
 Implemented a What-If Analysis to evaluate bulk shipping strategies.
 
-📊 3. Visualize Your Analysis
+### 📊 3. Visualize Your Analysis
 Created dashboard-style reports including:
 
 Revenue & Profit Trends
@@ -66,11 +68,11 @@ Profit Percentage Treemap
 
 Developed a final cohesive story with actionable insights.
 
-📸 Report Screenshots
+## 📸 Report Screenshots
 Add screenshots to the Images/ folder and embed them below:
 
 
-📌 Tools & Technologies
+## 📌 Tools & Technologies
 Power BI Desktop
 
 Power Query (M language)
@@ -79,7 +81,7 @@ DAX (Data Analysis Expressions)
 
 Sample datasets from DataCamp Sandbox
 
-🧮 Sample DAX Measures
+## 🧮 Sample DAX Measures
 DAX
 Copy
 Edit
